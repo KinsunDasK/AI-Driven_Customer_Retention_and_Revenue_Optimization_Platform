@@ -4,8 +4,6 @@
 
 An end-to-end AI-powered solution that combines machine learning, business intelligence, and LLM-driven analytics to predict customer churn and optimize revenue performance.
 
-![Power BI Dashboard Preview](https://github.com/KinsunDasK/Customer_Retension_and_Revenue_Insights/blob/main/dashboard_preview.png)
-
 ## 🔍 Project Overview
 This project is designed to empower business stakeholders with:
 - Predictive insights into customer churn
@@ -25,7 +23,7 @@ This project is designed to empower business stakeholders with:
 │   ├── 1_EDA.ipynb
 │   └── 2_Model_Building_HPT.ipynb
 ├── Revenue_Insights_App.py  # Streamlit App with Chatbot + UI
-├── dashboard.pbix            # Power BI report
+├── dashboard.pbix            
 └── README.md
 ```
 
@@ -56,34 +54,9 @@ This project is designed to empower business stakeholders with:
 - **HTML/CSS** (for advanced UI styling)
 - **Pickle** (for model serialization)
 
-## ▶️ Getting Started
-1. Clone the repo:
-```bash
-git clone https://github.com/KinsunDasK/Customer_Retension_and_Revenue_Insights.git
-cd Customer_Retension_and_Revenue_Insights
-```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Create a `.env` file and add your Groq API key:
-```bash
-GROQ_API_KEY=your_api_key_here
-```
-4. Run the Streamlit app:
-```bash
-streamlit run Revenue_Insights_App.py
-```
 
-## 📸 Screenshots
-| Customer Churn Predictor | LLM Revenue Chatbot |
-|--------------------------|----------------------|
-| ![](assets/predictor_ui.png) | ![](assets/chatbot_ui.png) |
-
-## 📬 Connect
-If you liked this project or have feedback, feel free to connect:
 - GitHub: [KinsunDasK](https://github.com/KinsunDasK)
-- LinkedIn: [Kinsun Das](https://www.linkedin.com/in/kinsundas)
+- LinkedIn: [Kinsun Das](www.linkedin.com/in/kinsundask)
 
 ---
 **⭐ Star this repo** to support my work and follow for more end-to-end AI/ML projects!
