@@ -1,6 +1,6 @@
 
 
-# AI-Driven_Customer_Retention_and_Revenue_Optimization_Platform
+# AI-Driven Customer Retention and Revenue Optimization Platform
 
 An end-to-end AI-powered solution that combines machine learning, business intelligence, and LLM-driven analytics to predict customer churn and optimize revenue performance.
 
