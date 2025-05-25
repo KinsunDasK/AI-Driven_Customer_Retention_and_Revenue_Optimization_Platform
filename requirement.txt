@@ -1,0 +1,14 @@
+numpy
+matplotlib
+seaborn
+pandas
+scikit-learn
+scipy
+streamlit
+plotly
+streamlit_option_menu
+langchain
+dotenv
+langchain_groq
+langchain_experimental
+tabulate
