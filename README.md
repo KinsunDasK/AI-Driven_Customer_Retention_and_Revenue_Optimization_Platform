@@ -56,7 +56,7 @@ This project is designed to empower business stakeholders with:
 
 
 - GitHub: [KinsunDasK](https://github.com/KinsunDasK)
-- LinkedIn: [Kinsun Das](www.linkedin.com/in/kinsundask)
+- LinkedIn: [Kinsun Das](https://www.linkedin.com/in/kinsundask/)
 
 ---
 **⭐ Star this repo** to support my work and follow for more end-to-end AI/ML projects!
