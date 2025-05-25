@@ -59,6 +59,4 @@ This project is designed to empower business stakeholders with:
 - LinkedIn: [Kinsun Das](https://www.linkedin.com/in/kinsundask/)
 
 ---
-**⭐ Star this repo** to support my work and follow for more end-to-end AI/ML projects!
-
-> "Turning customer behavior into actionable insights with AI."
+**⭐ Star this repo** to support my work
