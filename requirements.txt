@@ -12,3 +12,4 @@ dotenv
 langchain_groq
 langchain_experimental
 tabulate
+pickle
